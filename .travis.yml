@@ -12,3 +12,4 @@ script:
   - ./build.sh
   - ./configure
   - make
+  - ./sipgrep -h
