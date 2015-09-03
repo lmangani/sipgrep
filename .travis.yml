@@ -13,4 +13,3 @@ script:
   - ./build.sh
   - ./configure
   - make
-  
