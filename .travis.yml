@@ -9,7 +9,6 @@ install:
   - sudo apt-get install libpcap-dev libpcre3-dev autoconf automake autogen
 
 script:
-  - cd sipgrep
   - ./build.sh
   - ./configure
   - make
